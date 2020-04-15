@@ -91,7 +91,7 @@ class CocoConfig(Config):
     GPU_COUNT = 1
 
     # Number of classes (inclu2ing background)
-    NUM_CLASSES = 2 + 1  # COCO has 80 classes
+    NUM_CLASSES = 1 + 1  # COCO has 80 classes
 
 
 ############################################################
