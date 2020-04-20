@@ -142,6 +142,6 @@ mask-rcnn/__pycache__/
 mask-rcnn/mrcnn/__pycache__/
 mask-rcnn/pycoco/__pycache__/
 mask-rcnn/pycococreatortools/__pycache__/
+mask-rcnn/models/__pycache__/
 
-mask-rcnn/models/
 mask-rcnn/videos/
